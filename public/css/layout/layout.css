@@ -24,6 +24,7 @@ section {
     --space-top-desktop: var(--space-lg);
     --space-mobile: var(--space-xl);
     --space-desktop: var(--space-xxl);
+    background-color: #d6ba8a;
 
     + section {
         padding-top: var(--space-mobile);
@@ -54,7 +55,7 @@ section {
 
 /* Header */
 header.navigation-bar {
-    background-color: var(--color-nav-bg);
+    background-color: #9e7541;
     color: var(--color-nav-text);
     padding: var(--space-sm) 0;
 }
@@ -121,7 +122,7 @@ header.navigation-bar {
 
 /* Footer */
 footer {
-    background-color: var(--color-nav-bg);
+    background-color: #9e7541;
     color: var(--color-nav-text);
     padding: var(--space-lg);
 }
@@ -141,7 +142,7 @@ footer {
 
 .copyright {
     margin: 0;
-    color: var(--color-text-light);
+    color: white;
 }
 
 .footer-links {
@@ -149,8 +150,7 @@ footer {
 }
 
 .admin-link {
-    color: var(--color-text-light);
-    opacity: 0.5;
+    color: white;
     text-decoration: none;
     font-size: 0.9rem;
     transition: var(--transition);

@@ -28,6 +28,7 @@ h6 { font-size: 1rem; }
 /* Page components */
 .page-header {
     text-align: center;
+    padding-bottom: 20px;
 }
 
 .page-heading {
@@ -55,7 +56,6 @@ h6 { font-size: 1rem; }
 .page-intro {
     max-width: 65ch;
     margin: var(--space-md) auto 0;
-    color: var(--color-text-muted);
     font-size: var(--text-lg);
     line-height: 1.6;
     text-align: center;

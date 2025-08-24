@@ -12,10 +12,10 @@ $this->extend('layout');
 <section class="page-header">
     <div class="container">
         <h1 class="page-heading">
-            My Projects
+            Mine projekter
         </h1>
         <p class="page-intro">
-            Welcome to my project showcase! Here you'll find a collection of my recent work, highlighting my skills in web development and software engineering. Each project demonstrates my commitment to creating clean, efficient, and user-friendly solutions.
+            Her præsenteres et udvalg af de projekter, jeg har arbejdet med i løbet af min studietid.
         </p>
     </div>
 </section>

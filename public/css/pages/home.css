@@ -1,7 +1,7 @@
 /* ===== HOME PAGE STYLES ===== */
 /* Hero Section */
 .hero {
-    background-color: var(--color-bg-alt);
+    background-color: rgba(181, 141, 63, 0.91);
     text-align: center;
     padding: var(--space-xl) 0;
 
@@ -17,7 +17,7 @@
             font-size: 3.5rem;
         }
     }
-    
+
     .accent {
         display: block;
         color: var(--color-primary);
@@ -30,7 +30,6 @@
 
     .tagline {
         font-size: 1.25rem;
-        color: var(--color-text-light);
         max-width: 600px;
         margin: 0 auto var(--space-lg);
     }
@@ -158,12 +157,12 @@
     }
 
     .button {
-        background-color: white;
+        background-color: #984e4e;
         color: var(--color-primary);
         margin-top: var(--space-sm);
 
         .button:hover {
-            background-color: #f0f0f0;
+            background-color: #ff9900;
         }
     }
 }

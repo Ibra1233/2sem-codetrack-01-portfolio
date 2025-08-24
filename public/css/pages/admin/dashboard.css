@@ -36,7 +36,7 @@
 }
 
 .link-card {
-    background-color: var(--color-bg);
+    background-color: #c67710;
     padding: var(--space-md);
     border: 1px solid var(--color-border);
     border-radius: var(--border-radius);
@@ -98,10 +98,11 @@
     }
 
     p {
-        color: var(--color-text-light);
+        color: black;
         margin: 0;
-        font-size: 0.95rem;
+        font-size: 18px;
         line-height: 1.5;
+        font-family: Calibri, sans-serif;
     }
 
     &.disabled {
