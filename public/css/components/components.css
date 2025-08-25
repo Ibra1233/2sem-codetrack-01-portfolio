@@ -2,7 +2,7 @@
 /* Buttons */
 .button, .btn, .btn-view-project {
     display: inline-block;
-    background-color: var(--color-primary);
+    background-color: #9e7541;
     color: white;
     padding: 0.6rem 1.5rem;
     border-radius: var(--border-radius);
@@ -15,7 +15,7 @@
 }
 
 .button:hover, .btn:hover, .btn-view-project:hover {
-    background-color: var(--color-primary-dark);
+    opacity: 0.8;
     text-decoration: none;
     color: white;
 }

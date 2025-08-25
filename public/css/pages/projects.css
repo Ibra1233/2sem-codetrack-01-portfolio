@@ -8,8 +8,8 @@
 .project-row {
     display: flex;
     flex-direction: column;
-    background-color: var(--color-bg);
     border-radius: var(--border-radius-lg);
+    background-color: white;
     overflow: hidden;
     box-shadow: var(--box-shadow);
     transition: var(--transition);

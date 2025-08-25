@@ -56,11 +56,11 @@
 
 .skill-tag {
     font-family: Calibri, sans-serif;
+    font-weight: bold;
     font-size: 20px;
     display: inline-block;
     padding: 0.5rem 1rem;
     background: #803500;
-    border: 1px solid var(--color-border);
     color: white;
     border-radius: var(--border-radius);
     transition: all 0.2s ease;

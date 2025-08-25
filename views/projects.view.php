@@ -49,7 +49,7 @@ $this->extend('layout');
                                 href="<?= htmlspecialchars($project->link) ?>"
                                 class="btn-view-project"
                             >
-                                View Project
+                                Se projekt
                             </a>
                         </div>
                     </div>

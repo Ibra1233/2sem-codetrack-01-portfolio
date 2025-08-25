@@ -82,7 +82,8 @@ h6 { font-size: 1rem; }
 /* Paragraphs & text */
 p {
     margin: 0;
-
+    font-size: 17px;
+    color: black;
     + p {
         margin-top: var(--space-md);
     }
